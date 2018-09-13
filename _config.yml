@@ -12,6 +12,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 facebook: facebook
 twitter: twitter
 github:  github
+Linkedin: linkedin
 
 #Additional Pages
 about: about
